@@ -1,3 +1,4 @@
+import streamlit as st
 // Init
 var $ = jQuery;
 var animationTime = 20,
